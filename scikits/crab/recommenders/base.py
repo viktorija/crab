@@ -22,3 +22,7 @@ from ..base import BaseRecommender
 
 class MemoryBasedRecommender(BaseRecommender):
     pass
+
+
+class ModelBasedRecommender(BaseRecommender):
+    pass
